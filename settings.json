@@ -1,0 +1,7 @@
+{
+	"word_list":"words.txt",
+	"time_sleep":5,
+	"cycle":2,
+	"speed":0.01,
+	"pattern":":shout"
+}
